@@ -1,1 +1,1 @@
-Guide Nolus snapshot 
+# Root directory. Here are all the installation guides.
