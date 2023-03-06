@@ -1,11 +1,11 @@
 # Nolus Protocol testnet.
-[WebSite](https://nolus.io) \
-[GitHub](https://github.com/Nolus-Protocol/nolus-core) \
-[Official documentation](https://docs-nolus-protocol.notion.site/Run-a-Full-Node-7a92545223e7483bb4a02cce30b53aa8)
-=
-[EXPLORER 1](https://explorer.stavr.tech/nolus-testnet/staking) \
-[EXPLORER 2](https://exp.utsa.tech/nolus-test)
-=
+## [WebSite](https://nolus.io) 
+## [GitHub](https://github.com/Nolus-Protocol/nolus-core) 
+## [Official documentation](https://docs-nolus-protocol.notion.site/Run-a-Full-Node-7a92545223e7483bb4a02cce30b53aa8)
+
+## [Explorer №1 (STAVR)](https://explorer.stavr.tech/nolus-testnet/staking) 
+## [Explorer №2 (Lesnik)](https://exp.utsa.tech/nolus-test)
+
 
 - **Minimum hardware requirements**:
 
